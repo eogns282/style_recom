@@ -22,7 +22,7 @@ Style image recommendtaion algorithm for a better transferred image.
 python run_main.py --content <content file>
 ```
 *Example*:
-`python run_main.py --content content/1.jpg
+`python run_main.py --content content/1.jpg`
 
 #### Arguments
 *Required* :  
