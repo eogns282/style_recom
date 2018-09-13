@@ -19,10 +19,10 @@ Style image recommendtaion algorithm for a better transferred image.
 
 ### Running
 ```
-python run_main.py --content <content file>
+python main.py --content <content file>
 ```
 *Example*:
-`python run_main.py --content content/1.jpg`
+`python main.py --content content/1.jpg`
 
 #### Arguments
 *Required* :  
