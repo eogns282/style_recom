@@ -1,6 +1,6 @@
 # Style image recommendation algorithm
 
-Style image recommendtaion algorithm for a better transferred image.
+Style image recommendtaion algorithm for a better transferred image. ([slide](https://drive.google.com/open?id=1IpaM344vy2H1Vj5zGp3sgvJRESU3GC2W))
 
 
 ## Usage
